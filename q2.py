@@ -1,4 +1,5 @@
-alunos= input("Quantos alunos existem na turma: ")
 soma=0
-while alunos > 0:
+alunos= input("Quantos alunos existem na turma: ")
+
+while alunos > 0 and alunos == soma:
     input("Qual sua nota: ")
